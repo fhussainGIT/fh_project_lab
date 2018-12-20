@@ -2,3 +2,6 @@ I have modified this file
 This is just a test for GIT Class
 i am learning more about GIT
 Hoping to learn a lot about GIT
+GIT is awesome
+We have GIT skills now
+I think Marisa is awesome too
